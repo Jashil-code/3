@@ -59,7 +59,7 @@ function gotResult(error, results) {
             document.getElementById("rec1").innerHTML = "Samosa";
             document.getElementById("pre1").innerHTML = "A typical potato-filled samosa (about 100 grams) contains approximately 250 to 300 calories.";
         }
-        else if (results[0].label == "Pani Puri"){
+        else if (results[0].label == "PaniPuri"){
             document.getElementById("rec1").innerHTML = "Pani Puri";
             document.getElementById("pre1").innerHTML = "A typical pani puri (also known as golgappa) contains approximately 30 to 50 calories per piece.";
         }
