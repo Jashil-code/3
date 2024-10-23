@@ -116,3 +116,16 @@ body{
     text-align: left;     /* Aligns text to the left */
     font-family: Arial, sans-serif; /* Sets the font */
 }
+
+#rec1 {
+    font-size: 20px;          /* Adjusts the size of the text */
+    color: #2c3e50;           /* Sets a dark blue text color */
+    font-weight: bold;        /* Makes the text bold */
+    background-color: #ecf0f1; /* Light grey background */
+    padding: 10px;            /* Adds some space inside the element */
+    border: 2px solid #2980b9; /* Adds a blue border */
+    border-radius: 10px;      /* Rounds the corners of the border */
+    text-align: center;       /* Centers the text inside the box */
+    margin-top: 20px;         /* Adds space above the element */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); /* Adds a shadow */
+}
